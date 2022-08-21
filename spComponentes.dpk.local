@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/08/19 10:01:17.000.859,=rtl.dcp</Transaction>
+    <Transaction>2022/08/19 10:57:00.000.798,=rtl.dcp</Transaction>
+    <Transaction>2022/08/21 09:24:30.000.058,=rtl.dcp</Transaction>
+    <Transaction>2022/08/21 10:20:31.118,=rtl.dcp</Transaction>
+    <Transaction>2022/08/21 10:23:18.425,=C:\Users\Iogor Turola\Downloads\ProvaDelphiApp\uspQuery.pas</Transaction>
+    <Transaction>2022/08/21 10:23:18.695,=dbrtl.dcp</Transaction>
+    <Transaction>2022/08/21 10:23:18.727,=FireDAC.dcp</Transaction>
+    <Transaction>2022/08/21 10:23:18.760,=FireDACSqliteDriver.dcp</Transaction>
+    <Transaction>2022/08/21 10:23:18.792,=FireDACCommonDriver.dcp</Transaction>
+    <Transaction>2022/08/21 10:23:18.824,=FireDACCommon.dcp</Transaction>
+    <Transaction>2022/08/21 10:23:18.857,=xmlrtl.dcp</Transaction>
+    <Transaction>2022/08/21 10:23:34.583,C:\Users\Iogor Turola\Downloads\ProvaDelphiApp\spComponentes.dpk=C:\Users\Iogor Turola\Documents\Embarcadero\Studio\Projects\Package1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
